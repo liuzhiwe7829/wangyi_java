@@ -1,0 +1,29 @@
+# Maven
+target/
+release.properties
+
+/.settings/
+/.apt_generated/
+/bin/
+/logs/
+.factorypath
+/runtime/
+
+# Mac
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.externalToolBuilders/
+.metadata
+.settings
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+/.idea/
+runtime/
